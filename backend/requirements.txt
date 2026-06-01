@@ -2,9 +2,10 @@ fastapi
 uvicorn
 python-multipart
 python-dotenv
-groq
-chromadb
-pymupdf
 sqlalchemy
 passlib[bcrypt]
 python-jose[cryptography]
+pydantic
+groq
+chromadb
+pymupdf
