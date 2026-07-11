@@ -9,3 +9,6 @@ pydantic
 groq
 chromadb
 pymupdf
+PyPDF2
+sentence-transformers   
+passlib[bcrypt]                          
